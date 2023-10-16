@@ -28,15 +28,12 @@
     /* justify-content: space-between; */
 }
 .input{
-    padding-left: 4px;
-    padding-right: 4px;
-    padding-bottom: 8px;
-    padding-top: 8px;
+    padding: 4px; 
     margin-bottom: 2px;
     color: rgb(88, 88, 145);
     font-size: 15px;
     border: 2px solid rgb(184, 152, 152);
     border-radius: 9px;
-    height: 35px;
+    height: 40px;
     background: rgb(243, 239, 239);
 }
