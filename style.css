@@ -1,6 +1,7 @@
 .heading{
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 .container{
     border: 2px solid black;
@@ -21,10 +22,11 @@
     padding: 12px;
     margin: 3px;
     cursor: pointer;
-    border-radius: 8px;
+    border-radius: 15px;
     border: 2px solid rgb(184, 152, 152);
     background: cadetblue;
     font-size: 20px;
+    width: 50px;
     /* justify-content: space-between; */
 }
 .input{
@@ -34,6 +36,8 @@
     font-size: 15px;
     border: 2px solid rgb(184, 152, 152);
     border-radius: 9px;
-    height: 40px;
+    height: 45px;
+    width: 220px;
+
     background: rgb(243, 239, 239);
 }
